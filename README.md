@@ -32,6 +32,8 @@ I'm a Software Engineering Aspirant!
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayRahul1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🌏 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-rahul-prasad-punnamaraju/)
@@ -44,7 +46,6 @@ I'm a Software Engineering Aspirant!
 
 ![](https://github-readme-stats.vercel.app/api?username=AjayRahul1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AjayRahul1&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayRahul1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
