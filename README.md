@@ -2,10 +2,13 @@
 
 - 👨🏻‍💻 I'm a Software Engineering Aspirant!
 - 👨🏻‍🎓 Currently Senior (Final Year) Student at Gayatri Vidya Parishad College of Engineering (Autonomous).
-- 🖥️ Worked as an Intern as a Web Developer.
+- 🖥️ Worked as an Intern in Web Developer and Machine Learning Engineer Role.
 - 🌐 Web and YouTube Surfing are my hobbies.
+- 🔭 I'm currently working on Composing Music through Generative AI.
+- 🌱 I'm currently learning ReactJS and DSA. Forever Learner!
+- 📫 Reach me at [p.ajayrahul02@gmail.com](mailto: p.ajayrahul02@gmail.com)
 
-## 🖥️ Tech Stack:
+## 🖥️ Tech Stack
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
