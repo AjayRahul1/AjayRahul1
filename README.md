@@ -6,7 +6,7 @@
 - 🌐 Web and YouTube Surfing are my hobbies.
 - 🔭 I'm currently working on Composing Music through Generative AI.
 - 🌱 I'm currently learning ReactJS and DSA. Forever Learner!
-- 📫 Reach me at [p.ajayrahul02@gmail.com](mailto: p.ajayrahul02@gmail.com)
+- 📫 Reach me at p.ajayrahul02@gmail.com
 
 ## 🖥️ Tech Stack
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
