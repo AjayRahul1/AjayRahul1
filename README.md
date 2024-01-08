@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Ajay Rahul
 
-I'm a Software Engineering Aspirant!
+- 👨🏻‍💻 I'm a Software Engineering Aspirant!
+- 👨🏻‍🎓 Currently Senior (Final Year) Student at Gayatri Vidya Parishad College of Engineering (Autonomous).
+- 🖥️ Worked as an Intern as a Web Developer.
+- 🌐 Web and YouTube Surfing are my hobbies.
 
 ## 🖥️ Tech Stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
