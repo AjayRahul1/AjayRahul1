@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ajay Rahul
+<p style="text-align: center;"> ### Hi there 👋, I'm Ajay Rahul </style>
 
 - 👨🏻‍💻 I'm a Software Engineering Aspirant!
 - 👨🏻‍🎓 Currently Senior (Final Year) Student at Gayatri Vidya Parishad College of Engineering (Autonomous).
