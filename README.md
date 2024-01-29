@@ -1,11 +1,12 @@
 ### Hi there 👋, I'm Ajay Rahul
 
-- 👨🏻‍💻 I'm a Software Engineering Aspirant!
+- 👨🏻‍💻 I'm a Full Stack Web Developer | Python (FastAPI, Flask), React, MySQL | Philomath | SDE Aspirant!
 - 👨🏻‍🎓 Currently Senior (Final Year) Student at Gayatri Vidya Parishad College of Engineering (Autonomous).
-- 🖥️ Worked as an Intern in Web Developer and Machine Learning Engineer Role.
-- 🌐 Web and YouTube Surfing are my hobbies.
-- 🔭 I'm currently working on Composing Music through Generative AI.
-- 🌱 I'm currently learning ReactJS and DSA. Forever Learner!
+- 📒 Current CGPA: 8.51 (till 6th Semester).
+- 🖥️ Worked as an Intern in Web Developer Role.
+- 🌐 Web Surfing and YouTube Surfing are my hobbies.
+- 🔭 I'm currently working on my Final Year Project "Composing Music through Generative AI".
+- 🌱 Forever Learner! I'm currently learning ReactJS.
 - 📫 Reach me at p.ajayrahul02@gmail.com.
 
 ## 🖥️ Tech Stack
