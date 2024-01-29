@@ -2,8 +2,7 @@
 
 - 👨🏻‍💻 I'm a Full Stack Web Developer | Python (FastAPI, Flask), React, MySQL | Philomath | SDE Aspirant!
 - 👨🏻‍🎓 Currently Senior (Final Year) Student at Gayatri Vidya Parishad College of Engineering (Autonomous).
-- 📒 Current CGPA: 8.51 (till 6th Semester).
-- 🖥️ Worked as an Intern in Web Developer Role.
+- 📒 Current CGPA: 8.51 (till 6th Semester). 
 - 🌐 Web Surfing and YouTube Surfing are my hobbies.
 - 🔭 I'm currently working on my Final Year Project "Composing Music through Generative AI".
 - 🌱 Forever Learner! I'm currently learning ReactJS.
