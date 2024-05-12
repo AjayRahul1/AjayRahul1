@@ -2,9 +2,9 @@
 
 - 👨🏻‍💻 I'm a Full Stack Web Developer | Python (FastAPI, Flask), React, MySQL | Philomath | SDE Aspirant!
 - 👨🏻‍🎓 Currently Senior (Final Year) Student at Gayatri Vidya Parishad College of Engineering (Autonomous).
-- 📒 Current CGPA: 8.48 (till 6th Semester). 
+- 📒 CGPA: 8.65/10
 - 🌐 Web Surfing and YouTube Surfing are my hobbies.
-- 🔭 I'm currently working on my Final Year Project "Composing Music through Generative AI".
+- 🔭 I'm currently working on my Final Year Project "Personalised Music Composition through Deep Generative Model".
 - 🌱 Forever Learner! I'm currently learning ReactJS.
 - 📫 Reach me at p.ajayrahul02@gmail.com.
 
