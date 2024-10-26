@@ -1,11 +1,10 @@
 ### Hi there 👋, I'm Ajay Rahul
 
-- 👨🏻‍💻 I'm a Full Stack Web Developer | Python (FastAPI, Flask), React, MySQL | Philomath | SDE Aspirant!
-- 👨🏻‍🎓 Currently Senior (Final Year) Student at Gayatri Vidya Parishad College of Engineering (Autonomous).
-- 📒 CGPA: 8.65/10
+- 👨🏻‍💻 I'm a Full Stack Web Developer | Philomath | Simplistic
+- 🔭 I'm currently working in `Tata Consultancy Service Limited (TCSL)` as Systems Engineer.
+- 👨🏻‍🎓 Completed Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE) at Gayatri Vidya Parishad College of Engineering (Autonomous) with 8.65/10 CGPA.
 - 🌐 Web Surfing and YouTube Surfing are my hobbies.
-- 🔭 I'm currently working on my Final Year Project "Personalised Music Composition through Deep Generative Model".
-- 🌱 Forever Learner! I'm currently learning ReactJS.
+- 🌱 Forever Learner! I'm currently learning Stibo Master Data Management.
 - 📫 Reach me at p.ajayrahul02@gmail.com.
 
 ## 🖥️ Tech Stack
