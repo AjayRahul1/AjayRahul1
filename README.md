@@ -1,19 +1,19 @@
 ### Hi there 👋, I'm Ajay Rahul
 
-- 👨🏻‍💻 I'm a Full Stack Web Developer | Philomath | Simplistic
+- 👨🏻‍💻 I'm a Full Stack Web Developer with a strong passion for DevOps and CI/CD.
 - 🔭 I'm currently working in `Tata Consultancy Service Limited (TCSL)` as Systems Engineer.
-- 👨🏻‍🎓 Completed Bachelor of Technology (B.Tech) in Computer Science and Engineering (CSE) at Gayatri Vidya Parishad College of Engineering (Autonomous) with 8.65/10 CGPA.
-- 🌐 Web Surfing and YouTube Surfing are my hobbies.
+- 👨🏻‍🎓 Pursued *B.Tech CSE* at **Gayatri Vidya Parishad College of Engineering (Autonomous)** with **8.65/10** CGPA.
+- 🌐 Singing, Web Surfing and YouTube Surfing are my hobbies.
 - 🌱 Forever Learner! I'm currently learning Stibo Master Data Management.
 - 📫 Reach me at p.ajayrahul02@gmail.com.
 
-## 🖥️ Tech Stack
+## 🖥️ Skill Stack
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23A25AFF.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -44,7 +44,7 @@
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/AjayRahul1)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/AjayRahul1)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@AjayRahul1)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/comrade_rahul_1)
+[![X (Formerly Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/comrade_rahul_1)
 
 ## 📊 GitHub Stats
 
