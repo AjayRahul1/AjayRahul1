@@ -2,7 +2,7 @@
 
 - 👨🏻‍💻 I'm a Full Stack Web Developer with a strong passion for DevOps and CI/CD.
 - 🔭 I'm currently working in `Tata Consultancy Service Limited (TCSL)` as Systems Engineer.
-- 👨🏻‍🎓 Pursued *B.Tech CSE* at **Gayatri Vidya Parishad College of Engineering (Autonomous)** with **8.65/10** CGPA.
+- 👨🏻‍🎓 Earned my B.Tech in CSE from **Gayatri Vidya Parishad College of Engineering (Autonomous)** with **8.65/10** CGPA.
 - 🌐 Singing, Web Surfing and YouTube Surfing are my hobbies.
 - 🌱 Forever Learner! I'm currently learning Stibo Master Data Management.
 - 📫 Reach me at p.ajayrahul02@gmail.com.
