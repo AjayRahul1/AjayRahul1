@@ -1,22 +1,22 @@
 ### Hi there 👋, I'm Ajay Rahul
 
 - 👨🏻‍💻 I'm a Full Stack Web Developer with a strong passion for DevOps and CI/CD.
-- 🔭 I'm currently working in `Tata Consultancy Service Limited (TCSL)` as Systems Engineer.
-- 👨🏻‍🎓 Earned my B.Tech in CSE from **Gayatri Vidya Parishad College of Engineering (Autonomous)** with **8.65/10** CGPA.
+- 🔭 I'm currently working in `Tata Consultancy Services (TCS)` as Systems Engineer (Prime).
+- 👨🏻‍🎓 Earned my *Bachelor of Technology* (B.Tech) Degree in *Computer Science and Engineering* (CSE) from **Gayatri Vidya Parishad College of Engineering (Autonomous)** with **8.65/10** CGPA.
 - 🌐 Singing, Web Surfing and YouTube Surfing are my hobbies.
-- 🌱 Forever Learner! I'm currently learning Stibo Master Data Management.
+- 🌱 Forever Learner!
 - 📫 Reach me at p.ajayrahul02@gmail.com.
 
 ## 🖥️ Skill Stack
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23A25AFF.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,7 +36,6 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayRahul1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 
 ## 🌏 Socials
 
