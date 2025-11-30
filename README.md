@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Ajay Rahul
 
 - 👨🏻‍💻 I'm a Full Stack Web Developer & Data Engineer with a strong passion for DevOps and CI/CD.
-- 🔭 I'm currently working in `Tata Consultancy Services (TCS)` as Systems Engineer (Prime).
-- 👨🏻‍🎓 Earned my *Bachelor of Technology* (B.Tech) Degree in *Computer Science and Engineering* (CSE) from **Gayatri Vidya Parishad College of Engineering (Autonomous)** with **8.65/10** CGPA.
+- 🔭 I'm currently working in `Tata Consultancy Services (TCS)`.
+- 👨🏻‍🎓 Earned my *Bachelor of Technology* (B.Tech) Degree in *Computer Science and Engineering* (CSE) from **Gayatri Vidya Parishad College of Engineering (Autonomous)** with **8.58/10** CGPA.
 - 🌐 Singing, Web Surfing and YouTube Surfing are my hobbies.
 - 🌱 Forever Learner!
 - 📫 Reach me at p.ajayrahul02@gmail.com.
